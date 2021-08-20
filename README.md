@@ -3,7 +3,7 @@
 This can genrate Face CutOuts From an Image.
 
 # Requirements
- pip install opencv-python /n
+ pip install opencv-python                                                                                                    
  pip install mediapipe
 
 # Known Bugs
