@@ -1,4 +1,4 @@
-# Realtime Genrate-Face-CutOut
+# Realtime-Genrate-Face-CutOut
 
 This can genrate Face CutOuts From an Image.
 
