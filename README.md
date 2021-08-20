@@ -3,6 +3,7 @@
 This can genrate Face CutOuts From an Image.
 
 # Requirements
+ ###Python 3
  pip install opencv-python                                                                                                    
  pip install mediapipe                                                                                                    
  pip install Pillow
